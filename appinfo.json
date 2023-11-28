@@ -1,0 +1,10 @@
+{
+  "id": "io.home-assistant.webos",
+  "version": "0.0.1",
+  "vendor": "Home Assistant",
+  "type": "web",
+  "main": "index.html",
+  "title": "Home Assistant",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png"
+}
